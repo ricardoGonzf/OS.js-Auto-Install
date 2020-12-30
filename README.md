@@ -9,4 +9,4 @@ An auto install script for os.js
 - Enjoy!
 
 ### Notes:
-You will need to have installed node.js and npm
+You will need to have installed node.js, npm and git
