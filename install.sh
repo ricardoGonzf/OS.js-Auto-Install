@@ -4,6 +4,9 @@ git clone -b master --single-branch https://github.com/os-js/OS.js.git
 # Enter the folder
 cd OS.js
 
+# Create "package.json"
+npm init -y
+
 # Install dependencies
 npm install
 
